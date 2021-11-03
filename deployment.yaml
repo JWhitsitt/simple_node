@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: simple-node
-        image: jswhitsitt/simple-node
+        image: jswhitsitt/simple_node
         ports:
         - containerPort: 80
 
